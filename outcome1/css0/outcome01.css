@@ -1,0 +1,16 @@
+.img00 img{
+	width: 800px;
+	height: 500px;
+}
+
+.img01{
+	margin-top: -520px;
+	margin-left: 55%;
+	width: 200px;
+	height: 800px;
+}
+
+.img02{
+	position: absolute;
+	top: 250px;
+}
